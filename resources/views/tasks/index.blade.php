@@ -33,6 +33,20 @@
 
     <h1 class="task-list-heading">Task List</h1>
 
+    <div class="task-list-task-buttons">
+
+      <a href="http://localhost/nabila-laravel/public/tasks/create">
+
+        <button  class="task-list-button">
+
+          <span class="material-icons">add</span>Add task
+
+        </button>
+
+      </a>
+
+    </div>
+
 
     <div class="task-list-table-head">
 
